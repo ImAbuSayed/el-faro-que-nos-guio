@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, mami, tú eres el faro que en la noche me guió
+> Tu mirada en lo oscuro fue la que me hipnotizó
+> Tú y yo perdiendo el control, you know how we go
+> Bailando suave hasta que salga el sol, yeah, dímelo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
