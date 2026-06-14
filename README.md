@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-faro-que-nos-guio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for El faro que nos guió](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-faro-que-nos-guio/) |
+| **Get License** | [Request Licensing for El faro que nos guió](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-faro-que-nos-guio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `79ada0c115fbbbd6c60e2e9872871ac8cda6e5bd9ae3202c9cc57862541fa681` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

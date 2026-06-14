@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El faro que nos guió
+
+This log tracks the cryptographic history and versioning for the song **El faro que nos guió** (el-faro-que-nos-guio).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:17:04.696912 | `v1` | `79ada0c115fbbbd6c60e2e9872871ac8cda6e5bd9ae3202c9cc57862541fa681` | `7aebc1c41bb6d685d684a7527367b9943499b5118289dad0f1d0a720e1fa4081` | `2026-06-14_el-faro-que-nos-guio-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
